@@ -1,0 +1,7 @@
+Git is a widely-used version control system designed to track changes in files and coordinate work among multiple developers on a project. It allows teams to collaborate efficiently by managing different versions of code, keeping a history of modifications, and supporting branching and merging.
+
+Some key features of Git include:
+
+Version Control: Git keeps a history of all changes, allowing developers to revert to previous versions of files or projects if needed.
+Branching: Developers can create separate branches for different features or bug fixes, work on them independently, and then merge them back into the main codebase when ready.
+Distributed System: Every developer has a complete copy of the project repository, making collaboration seamless and reducing the risk of losing data.
